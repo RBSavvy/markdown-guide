@@ -2,7 +2,11 @@
 Markdown Basics
 ================
 
-This should cover 99% of your Markdown needs.
+The philosophy of markdown is to be easy-to-use and produces easy-to-read text. Markdown's syntax uses punctuation characters to indicate when some text needs special formatting - like emphasis or quoting, links to other resources or email addresses, images and more. It's about making your text look pretty very easily.
+
+Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz allowing people "to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)".
+
+This guide should cover 99% of your Markdown needs.
     
 Blockquotes
 ============
@@ -297,9 +301,3 @@ Output:
     <p>This is another paragraph. It also has two sentences.</p>
 
 ----
-
-
-Images: Reference
-=================
-
-TODO
